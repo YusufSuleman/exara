@@ -1,0 +1,11 @@
+[
+    {
+      "name": "qinp",
+      "repo": "main/",
+      "desc": "A package manager",
+      "version": "1.0.0.4",
+      "archs": [
+        "x86"
+      ]
+    }
+  ]
