@@ -10,7 +10,7 @@
       "dependencies": [
         "xml@0.1.0.0", "xml2@1.0.0.0"
       ],
-      "src": "",
+      "src": "https://github.com/YusufSuleman/exara/raw/main/commit.sh.gz",
       "compressionType": ".tar.gz"
     }
 ]
