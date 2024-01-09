@@ -1,0 +1,44 @@
+/* 2017 Theme */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration: none;
+  }
+  
+  /* Material You Theme */
+  .container {
+    background-color: #6200ee;
+    color: #fff;
+  }
+  
+  .button {
+    background-color: #03dac6;
+  }
+  
+  .button:hover {
+    background-color: #018786;
+  }
+  
+  .button:active {
+    background-color: #03dac6;
+  }
+  
+  .button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(3, 218, 198, 0.5);
+  }
